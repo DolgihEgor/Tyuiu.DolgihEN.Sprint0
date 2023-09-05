@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D9F0241-BDBC-4BF7-9FFA-BABB4A347A9C}</ProjectGuid>
+    <ProjectGuid>{71D45C4B-66BB-4CF6-BEDE-EF1F6C656FBA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.DolgihEN.Sprint0.Task3.V0.Test</RootNamespace>
-    <AssemblyName>Tyuiu.DolgihEN.Sprint0.Task3.V0.Test</AssemblyName>
+    <RootNamespace>Tyuiu.DolgihEN.Sprint0.Task4.V0.Test</RootNamespace>
+    <AssemblyName>Tyuiu.DolgihEN.Sprint0.Task4.V0.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.DolgihEN.Sprint0.Task3.V0.Lib\Tyuiu.DolgihEN.Sprint0.Task3.V0.Lib.csproj">
-      <Project>{0f170409-e73a-478d-9638-08f703f17682}</Project>
-      <Name>Tyuiu.DolgihEN.Sprint0.Task3.V0.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.DolgihEN.Sprint0.Task4.V0.Lib\Tyuiu.DolgihEN.Sprint0.Task4.V0.Lib.csproj">
+      <Project>{31473c4b-bfb0-417e-9d2a-82b1e597b751}</Project>
+      <Name>Tyuiu.DolgihEN.Sprint0.Task4.V0.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
